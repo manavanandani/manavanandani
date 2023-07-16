@@ -1,5 +1,5 @@
-![Group 4](https://user-images.githubusercontent.com/78042851/210162903-bad390bb-4355-4002-89bd-a1ddcd031371.svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+WON'T+GIVE+UP!!!" alt="Typing SVG" /></a>
+![Group 4](Black Geometric Marketing Expert LinkedIn Banner.png)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+WON'T+GIVE+UP!!!" alt="Typing SVG" align="center /></a>
 
 Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in Artifical intelligence and Machine Learning.
 
@@ -15,8 +15,8 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 ### ☎️ Ways to reach me 👉
 
 ![manavanandani304@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Manav Anandani#7922](https://img.shields.io/badge/%3CRndmRadiowave20%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-[<img alt="gmail" src="https://img.shields.io/badge/shantheman.20-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/manav_anandani_/)
+![Manav Anandani#7922](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+[<img alt="gmail" src="https://img.shields.io/badge/Manav Anandani-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/manav_anandani_/)
 [<img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manav-anandani-b9011622b/)
 [<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/manavanandani)
 
@@ -81,5 +81,5 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 <br />
 <img src="https://www.pexels.com/photo/coding-script-965345/"/>
 
-[](assets/RndmCodeGuy20.png)
+[](Black Geometric Marketing Expert LinkedIn Banner.png)
 <!-- #image --><! -- img align="center" src="https://apod.nasa.gov/apod/image/1511/PlutoPits_NewHorizons_960.jpg"></br><!-- #end -->
