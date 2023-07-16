@@ -1,4 +1,4 @@
-![Group 4](Black Geometric Marketing Expert LinkedIn Banner.png)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+WON'T+GIVE+UP!!!" alt="Typing SVG" align="center /></a>
 
 Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in Artifical intelligence and Machine Learning.
