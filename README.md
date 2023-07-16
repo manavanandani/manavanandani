@@ -1,6 +1,4 @@
-<h1 align="center">Hi , I'm Manav Anandani <img src="[https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBldDhsYnVtYXQwa3RtaG5yaXpiYmM0azVweXF1bDl1ZXZycWc1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif)" width="35"></h1>
-<iframe src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg">via GIPHY</a></p>
-<p align="center">
+<h1 align="center">Hi , I'm Manav Anandani <img src="(https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif) width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+WON'T+GIVE+UP+!!!" alt="Typing SVG" /></a>
 
