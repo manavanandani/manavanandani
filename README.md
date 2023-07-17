@@ -23,7 +23,7 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 [<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/manavanandani)
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!---<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200'>-->
 
