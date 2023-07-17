@@ -88,5 +88,6 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 
 <br />
 <img src="https://imgur.com/rilHVxA.png"/>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+WON'T+GIVE+UP+!!!!;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOPS%20|%20Python%20;Artifiacl+Inteligence;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 <!-- #image --><! -- img align="center" src="https://apod.nasa.gov/apod/image/1511/PlutoPits_NewHorizons_960.jpg"></br><!-- #end -->
