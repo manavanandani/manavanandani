@@ -1,7 +1,10 @@
 <img align='right' src='file:///Users/manavanandani/Downloads/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(1)_adobe_express.sv' width='200'>
+
 <h1 align="center">Hi , I'm Manav Anandani <img src="(https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif) width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+WON'T+GIVE+UP+!!!" alt="Typing SVG" /></a>
+<a href="https://skyline.github.com/manavanandani/2023" /></a>
+
 
 Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in Artifical intelligence and Machine Learning.
 
@@ -23,7 +26,7 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 [<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/manavanandani)
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!---<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200'>-->
 
