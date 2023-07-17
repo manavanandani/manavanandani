@@ -1,4 +1,4 @@
-![Group 4](//Users/manavanandani/Downloads/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(1)_adobe_express.svg)
+![Group 4](file:///Users/manavanandani/Downloads/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(1)_adobe_express.svg)
 <h1 align="center">Hi , I'm Manav Anandani <img src="(https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif) width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+WON'T+GIVE+UP+!!!" alt="Typing SVG" /></a>
