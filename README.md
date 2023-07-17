@@ -85,5 +85,5 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 
 <br />
 <img src="undefined - Imgur.jpg"/>
-![](assets/manavanandani.jpg)
+![](assets/RndmCodeGuy20.png)
 <!-- #image --><! -- img align="center" src="https://apod.nasa.gov/apod/image/1511/PlutoPits_NewHorizons_960.jpg"></br><!-- #end -->
