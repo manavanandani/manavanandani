@@ -1,9 +1,10 @@
 <img align='right' src='file:///Users/manavanandani/Downloads/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(1)_adobe_express.sv' width='200'>
 
-<h1 align="center">Hi , I'm Manav Anandani <img src="(https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif) width="35"></h1>
+<h1 align="center">Hi , I'm Manav Anandani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+WON'T+GIVE+UP+!!!" alt="Typing SVG" /></a>
-<a href="https://skyline.github.com/manavanandani/2023" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOPS%20|%20Python%20;Artifiacl+Inteligence+&+Machine+Learning;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 
 Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in Artifical intelligence and Machine Learning.
@@ -85,5 +86,5 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 
 <br />
 <img src="https://imgur.com/rilHVxA.png"/>
-<img src="pexels-markus-spiske-965345.jpg"/>
+
 <!-- #image --><! -- img align="center" src="https://apod.nasa.gov/apod/image/1511/PlutoPits_NewHorizons_960.jpg"></br><!-- #end -->
