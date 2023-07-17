@@ -84,7 +84,6 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 ## ⭐️ From [Manav Anandani](https://github.com/manavanandani)
 
 <br />
-<img src="https://www.pexels.com/photo/coding-script-965345/"/>
+<img src="undefined - Imgur.jpg"/>
 
-[](Black Geometric Marketing Expert LinkedIn Banner.png)
 <!-- #image --><! -- img align="center" src="https://apod.nasa.gov/apod/image/1511/PlutoPits_NewHorizons_960.jpg"></br><!-- #end -->
