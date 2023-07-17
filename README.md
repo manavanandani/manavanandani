@@ -8,6 +8,7 @@
 
 <br>
 
+## :sassy_man:  About me
 Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in Artifical intelligence and Machine Learning.
 
 
