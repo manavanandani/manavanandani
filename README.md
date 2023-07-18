@@ -21,7 +21,7 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 - ⚡ Fun fact: I casually like to play the 🎹 <br>
 
 ### ☎️ Ways to reach me 👉
-<hr size="70%">
+<hr size="200%">
 
 ![manavanandani304@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Manav Anandani#7922](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
