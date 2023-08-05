@@ -93,3 +93,5 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 <p align="center">
 
 <!-- #image --><! -- img align="center" src="https://apod.nasa.gov/apod/image/1511/PlutoPits_NewHorizons_960.jpg"></br><!-- #end -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
