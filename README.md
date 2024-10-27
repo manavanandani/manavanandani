@@ -3,22 +3,22 @@
 <h1 align="center">Hi , I'm Manav Anandani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOPS%20|%20Python%20;Artifiacl+Inteligence;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Student;Data+Scientist;Python%20|%20SQL%20|%20Machine+Learning%20|%20Deep+Learning%20;Artifiacl+Inteligence;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <br>
 
 ## :sassy_man:  About me
-Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in Artifical intelligence and Machine Learning.
+Pursuing a Master’s in Data Analytics at San Jose State University, I specialize in statistical methods, data warehousing, and big data technologies. Skilled in Python, SQL, Power BI, and cloud platforms, I focus on transforming complex datasets into actionable insights.
 
 
 
-- 💻 I'm a Developer! <br>
+- 💻 I'm a Data Analytics Enthusiast and Developer! <br>
 - 🔭 I’m currently working on maintaining my **sanity**... <br>
-- 🌱 I’m currently learning **Cloud Computing, Deep Learning, Data Visualization and Flutter.** <br>
-- 👯 If you have any projects you would like to collaborate, reach out to me on my [website].<br>
-- 🚵 Trying to make this world a better place... <br>
-- ⚡ Fun fact: I casually like to play the 🎹 <br>
+- 🌱 I’m currently learning **Expanding my skills in Cloud Computing, Generative AI, Big Data, and Advanced Visualization.** <br>
+- 👯 Open to collaboration—reach out via my email: manavanandani304@gmail.com for data-driven projects or innovative AI initiatives..<br>
+- 🚵 Passionate about making data actionable for positive change.. <br>
+- ⚡ Fun fact: I enjoy unwinding with some 🎹 tunes in my free time <br>
 
 ## ☎️ Ways to reach me 👉
 
@@ -38,7 +38,7 @@ Currently a Final Year Student at RCOEM, pursuing my bachelor's degree in Comput
 
 #### 🎃 Languages I Use
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
